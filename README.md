@@ -1,4 +1,11 @@
 # HR-Analytics-by-using-Power-Bi
-In this project, I utilized Power BI to analyze and present data related to reimbursement details. Here's a breakdown of what I did: Data Collection,Data Cleaning and Validation,Expense Trend Analysis,Approval Workflow Visualization,User-Friendly Reports.
-Certainly! One challenge I encountered was dealing with duplicate entries in the reimbursement data. To address this, I implemented a deduplication process using Power BI, which involved creating unique identifiers and filtering out redundant information. This ensured the accuracy of the analysis and prevented overestimation of expenses.
-The analysis played a crucial role in streamlining the reimbursement process. It helped in identifying areas for process improvement, such as optimizing approval workflows and reducing processing times. The insights from the Power BI dashboards empowered decision-makers to make informed choices regarding expense management, ultimately leading to more efficient and cost-effective operations.
+In this project, I used Power BI to dive into HR data, analyzing various aspects to provide insights and support decision-making. Here's a breakdown of what I did:
+Employee Attrition Analysis,Performance Metrics Visualization,Diversity and Inclusion Metrics,Training and Development Impact,Recruitment Analytics.
+Absolutely! One challenge I faced was dealing with incomplete data regarding employee engagement. To address this, I implemented a data imputation strategy in Power BI, filling in missing values using averages and trends. This ensured that the analysis remained comprehensive and provided valuable insights despite the data gaps.
+The analysis played a crucial role in supporting HR decision-making. It provided actionable insights for talent retention, performance improvement, and diversity initiatives. The Power BI dashboards facilitated easy communication of complex HR data trends to stakeholders, enabling informed decisions that positively impacted employee satisfaction and overall organizational performance.
+
+
+
+
+
+
